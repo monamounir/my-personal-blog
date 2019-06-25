@@ -1,13 +1,13 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  url: 'https://masteka.netlfiy.com',
+  title: 'Masteka Blog',
+  subtitle: '',
   copyright: '© All rights reserved.',
   disqusShortname: '',
-  postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  postsPerPage: 8,
+  googleAnalyticsId: 'UA-142714677-1',
   menu: [
     {
       label: 'Articles',
@@ -23,9 +23,9 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
-    photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    name: 'Mona M. Mostafa',
+    photo: '/logo.png',
+    bio: '',
     contacts: {
       email: '#',
       telegram: '#',
