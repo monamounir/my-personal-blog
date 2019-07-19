@@ -16,16 +16,12 @@ module.exports = {
     {
       label: 'About me',
       path: '/pages/about'
-    },
-    {
-      label: 'Contact me',
-      path: '/pages/contacts'
     }
   ],
   author: {
-    name: 'Mona M. Mostafa',
-    photo: '/logo.png',
-    bio: '',
+    name: 'Mona Mounir',
+    photo: '/logo.svg',
+    bio: 'Lorem ipsum dolor sit amet, consetetur sadipscing elitr.',
     contacts: {
       email: '#',
       telegram: '#',
