@@ -21,12 +21,12 @@ module.exports = {
   author: {
     name: 'Mona Mounir',
     photo: '/logo.svg',
-    bio: 'Lorem ipsum dolor sit amet, consetetur sadipscing elitr.',
+    bio: 'Read.Design.Brand.Live.',
     contacts: {
-      email: '#',
+      email: 'mona.mounir.mostafa@gmail.com',
       telegram: '#',
       twitter: '#',
-      github: '#',
+      github: 'https://github.com/monamounir',
       rss: '#',
       vkontakte: '#'
     }
