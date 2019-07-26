@@ -1,7 +1,7 @@
 ---
 template: page
 title: About me
-draft: true
+draft: false
 ---
 Graphic designer eager to learn and read about anything related to branding.
 
