@@ -1,7 +1,7 @@
 ---
 template: post
 title: How to be a graphic designer
-draft: true
+draft: false
 date: 2019-07-28T17:42:32.389Z
 description: >-
   Going into the design field was very exciting for me, but not having a design
