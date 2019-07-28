@@ -1,6 +1,6 @@
 ---
 template: post
-title: How to be a Graphic Designer
+title: How to be A Graphic Designer
 draft: false
 date: 2019-07-28T17:42:32.389Z
 description: >-
