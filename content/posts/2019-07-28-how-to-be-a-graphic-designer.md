@@ -9,7 +9,8 @@ description: >-
   missing.
 category: introduction
 tags:
-  - '#design #graphic_design'
+  - '#design'
+  - '#graphic_design'
 ---
 ![](/media/branding-design-pencils-6444.jpg)
 
