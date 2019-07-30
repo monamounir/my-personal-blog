@@ -9,6 +9,8 @@ description: >-
   goes.
 category: First step into field
 ---
+![](/media/laptop-3317007_1280.jpg)
+
 After finishing the design diploma, I used to watch a lot of tutorials to learn from them and practice, but at some point i wanted to work on a project that's mine not to copy from tutorials, to see what it will be like to work on something on your own.
 
 So what i did was creating my own home made/fake project, don't take much time thinking what this project is going to be you can do anything you like, if you have passion for something you can brand it, you can make a personal brand for yourself, you can rebrand anything you like, or you can ask your friends for some ideas.
