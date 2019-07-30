@@ -7,7 +7,7 @@ description: >-
   Learning from tutorials is good, but to improve your skills you should work on
   a project, so if you don't have on create your own fake project and see how it
   goes.
-category: first step into feild
+category: First step into field
 ---
 After finishing the design diploma, I used to watch a lot of tutorials to learn from them and practice, but at some point i wanted to work on a project that's mine not to copy from tutorials, to see what it will be like to work on something on your own.
 
@@ -17,23 +17,23 @@ In my case I asked my husband (programmer) to give me ideas for a project, so he
 
 So now I'm going to tell you the story of this project step by step :
 
-## 1- the brief
+## 1- The Brief
 
-the first step is taking the brief from the client in my case was thinking about it myself and with my husband to know what this app is going to offer and think about the project itself.
+The first step is taking the brief from the client in my case was thinking about it myself and with my husband to know what this app is going to offer and think about the project itself.
 
-## 2- research
+## 2- Research
 
-after the brief comes the research I think you should never skip this step as it helps very much with the logo design, the colors you are going to choose and it also gives you an idea about other projects/apps that offers the same service as you do, so you learn how to be different from your competitors.
+After the brief comes the research I think you should never skip this step as it helps very much with the logo design, the colors you are going to choose and it also gives you an idea about other projects/apps that offers the same service as you do, so you learn how to be different from your competitors.
 
-## 3- sketching
+## 3- Sketching
 
-in this stage you think about the name of the app first, then you start sketching for the logo, after the research by now you would have seen plenty of logos, so you will have some ideas and inspirations, and you also can make something new and creative not just repeating the same ideas over and over again.
+In this stage you think about the name of the app first, then you start sketching for the logo, after the research by now you would have seen plenty of logos, so you will have some ideas and inspirations, and you also can make something new and creative not just repeating the same ideas over and over again.
 
-## 4- illustrate it
+## 4- Illustrate it
 
-some of us skip the sketching and try to do the logo first I don't recommend it as sketching gives you ideas that you can filtrate and take the good ones only to see what will come out of them.
+Some of us skip the sketching and try to do the logo first I don't recommend it as sketching gives you ideas that you can filtrate and take the good ones only to see what will come out of them.
 
-## 5- edits
+## 5- Edits
 
 I think this is the scary part but after finishing the draft of the logo show it to the client/friends/whoever and ask them what they think about it and if there is any thing needs edits in your logo and then you're good to go.
 
