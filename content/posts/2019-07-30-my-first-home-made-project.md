@@ -8,6 +8,8 @@ description: >-
   a project, so if you don't have one create your own fake project and see how
   it goes.
 category: First step into field
+tags:
+  - '#graphic_design #design #branding'
 ---
 ![](/media/laptop-3317007_1280.jpg)
 
