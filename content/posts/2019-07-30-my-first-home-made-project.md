@@ -7,7 +7,7 @@ description: >-
   Learning from tutorials is good, but to improve your skills you should work on
   a project, so if you don't have one create your own fake project and see how
   it goes.
-category: First step into the field
+category: First steps into the field
 tags:
   - '#graphic_design'
   - '#design'
