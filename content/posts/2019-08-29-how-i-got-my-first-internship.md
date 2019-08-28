@@ -10,7 +10,9 @@ description: >
   as I'm starting my career.
 category: first steps into the field
 tags:
-  - '#design #graphic_design #internship'
+  - '#design'
+  - '#graphic_design'
+  - '#internship'
 ---
 ![](/media/job-607701_1280.png)
 
