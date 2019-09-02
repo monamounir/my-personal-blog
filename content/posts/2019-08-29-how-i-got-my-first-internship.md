@@ -8,7 +8,7 @@ description: >
   on your own to learn from them, but for me it wasn't enough, I wanted to have
   a mentor someone who has been a designer for a long time to help me specially
   as I'm starting my career.
-category: first steps into the field
+category: The Internship
 tags:
   - '#design'
   - '#graphic_design'
