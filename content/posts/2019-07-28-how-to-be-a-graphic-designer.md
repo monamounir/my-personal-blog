@@ -12,7 +12,7 @@ tags:
   - '#design'
   - '#graphic_design'
 ---
-![](/media/branding-design-pencils-6444.jpg)
+![](/media/how-to-be..jpg)
 
 This is what I used to search in google when I first got into the field and found my passion in it.
 
